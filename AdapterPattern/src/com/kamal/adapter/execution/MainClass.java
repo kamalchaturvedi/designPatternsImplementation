@@ -1,7 +1,10 @@
 package com.kamal.adapter.execution;
 
 import com.kamal.adapter.audio.AudioPlayer;
-
+/**
+ * @author Kamal Chaturvedi
+ *
+ */
 public class MainClass {
 	public static void main(String[] args) {
 		AudioPlayer player = new AudioPlayer();

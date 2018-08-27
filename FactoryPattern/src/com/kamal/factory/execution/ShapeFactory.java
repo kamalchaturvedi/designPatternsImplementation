@@ -3,7 +3,10 @@ package com.kamal.factory.execution;
 import com.kamal.factory.CircleShape;
 import com.kamal.factory.RectangleShape;
 import com.kamal.factory.Shape;
-
+/**
+ * @author Kamal Chaturvedi
+ *
+ */
 public class ShapeFactory {
 
 	public Shape getShape(String shapeType) {

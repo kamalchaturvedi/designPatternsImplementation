@@ -1,5 +1,8 @@
 package com.kamal.adapter.players;
-
+/**
+ * @author Kamal Chaturvedi
+ *
+ */
 public class AdvancedMediaAdapter implements MediaPlayer {
 
 	AdvancedMediaPlayer advancedMediaPlayer;

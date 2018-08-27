@@ -1,7 +1,10 @@
 package com.kamal.proxy.execution;
 
 import com.kamal.proxy.connectionProxy.ProxyConnector;
-
+/**
+ * @author Kamal Chaturvedi
+ *
+ */
 public class MainClass {
 	public static void main(String[] args) {
 		ProxyConnector connector = new ProxyConnector();

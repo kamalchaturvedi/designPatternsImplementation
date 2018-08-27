@@ -1,5 +1,8 @@
 package com.kamal.adapter.players;
-
+/**
+ * @author Kamal Chaturvedi
+ *
+ */
 public class Mp4Player implements AdvancedMediaPlayer{
 
 	@Override

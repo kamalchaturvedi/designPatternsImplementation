@@ -1,5 +1,8 @@
 package com.kamal.singleton;
-
+/**
+ * @author Kamal Chaturvedi
+ *
+ */
 public class Device {
 
 	private static Device device;

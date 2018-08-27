@@ -4,7 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 import com.kamal.proxy.connection.InternetConnector;
 import com.kamal.proxy.connection.InternetConnectorImpl;
-
+/**
+ * @author Kamal Chaturvedi
+ *
+ */
 public class ProxyConnector implements InternetConnector {
 	InternetConnector internetConnector = new InternetConnectorImpl();
 	private List<String> bannedWebsites;

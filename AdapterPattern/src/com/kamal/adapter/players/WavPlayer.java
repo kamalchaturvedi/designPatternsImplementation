@@ -1,5 +1,8 @@
 package com.kamal.adapter.players;
-
+/**
+ * @author Kamal Chaturvedi
+ *
+ */
 public class WavPlayer implements AdvancedMediaPlayer {
 
 	@Override

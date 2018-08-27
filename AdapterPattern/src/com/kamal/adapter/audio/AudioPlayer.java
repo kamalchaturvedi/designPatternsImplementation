@@ -2,7 +2,10 @@ package com.kamal.adapter.audio;
 
 import com.kamal.adapter.players.AdvancedMediaAdapter;
 import com.kamal.adapter.players.MediaPlayer;
-
+/**
+ * @author Kamal Chaturvedi
+ *
+ */
 public class AudioPlayer implements MediaPlayer{
 AdvancedMediaAdapter mediaAdapter;
 
